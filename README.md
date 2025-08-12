@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunal2504java
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Java
+- 🌱 Jumping between DSA and Data Science/ML
 - 💞️ I’m looking to collaborate on AI and related projects
 - 📫 How to reach me @kunalpsingh25@gmail.com
 
